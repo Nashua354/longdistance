@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1043235213952",
+    "firebase_url": "https://longdistance-ee004.firebaseio.com",
+    "project_id": "longdistance-ee004",
+    "storage_bucket": "longdistance-ee004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043235213952:android:2ef462247c9e4085",
+        "android_client_info": {
+          "package_name": "com.example.longdistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043235213952-ht4aockgnfhi7bcbdmkrdm8rc9abdhdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscBgqLHM8nwzm9Yt9mHF2tRd1WXK1V88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
